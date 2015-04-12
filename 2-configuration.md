@@ -1,8 +1,8 @@
 Levels of configurations:
 
-1. System ( git config --system )
-2. User ( git config --global )
-3. Project ( git config )
+1. `git config --system` (System level)
+2. `git config --global` (User level)
+3. `git config`(Project level)
 
 For example user level configurations are shown below:
 ```
